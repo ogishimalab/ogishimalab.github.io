@@ -25,4 +25,4 @@
 ## 4. 分子病態遷移のトラジェクトリー解析
 疾患は細胞や組織、臓器の異常状態であり、慢性疾患ではこれらが準安定な異常状態の遷移により病態が進行していると考えられます。がんについて、細胞の異常状態を遺伝子発現情報により定量化し、がんの転移に関わる上皮間葉転換(EMT)についてこれを制御する遺伝子調節ネットワークを解明し、分子病態遷移のトラジェクトリーをランドスケープ上で解析しました(Tanaka H and Ogishima S, 2015)。これによりがんの転移に関わる上皮間葉転換について、遺伝子調節ネットワークの全体的な構造変化として、その本質的な特徴を解明しました。
 
-![disease trajectory](https://raw.githubusercontent.com/ogishimalab/ogishimalab.github.io/main/image/disease_trajectory.jpg)
+![disease trajectory](https://raw.githubusercontent.com/ogishimalab/ogishimalab.github.io/main/image/disease_trajectory.jpeg)
