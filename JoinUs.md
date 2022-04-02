@@ -18,5 +18,5 @@
 
 ## 研究者としてポジションに就くには
 研究者としてポジションに就きたい方はいつでも荻島教授までご連絡ください。
-ogishima at megabank.tohoku.ac.jp
+ogishima at megabank.tohoku.ac.jp  
 contact at igm.megabank.tohoku.ac.jp
