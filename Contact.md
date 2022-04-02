@@ -10,3 +10,6 @@
 メール　　contact at igm.megabank.tohoku.ac.jp  
 
 <iframe frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1566.1681103460887!2d140.85741507731984!3d38.27169829068406!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc1c5ac060ff6bf5d!2z5p2x5YyX5aSn5a2m5p2x5YyX44Oh44OH44Kj44Kr44Or44O744Oh44Ks44OQ44Oz44Kv5qOf!5e0!3m2!1sja!2sjp!4v1610417529362!5m2!1sja!2sjp" width="600" style="border: 0;"></iframe>
+
+![ToMMo building](https://raw.githubusercontent.com/ogishimalab/ogishimalab.github.io/main/image/ToMMo_building.jpeg)
+
