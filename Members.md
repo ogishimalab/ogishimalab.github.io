@@ -10,3 +10,10 @@
 [researchmap](https://href.li/?https://researchmap.jp/ogishima)  
 [google scholar](https://href.li/?https://scholar.google.com/citations?hl=ja&user=uATXFRYAAAAJ)  
 [elsevier pure](https://href.li/?https://tohoku.pure.elsevier.com/ja/persons/soichi-ogishima)
+
+## 講師　永家 聖 (Satoshi Nagaie) 
+ゲノム医科学情報学分野 講師。2005年電気通信大学電気通信学部卒業、東京医科歯科大学大学院修了（理学修士）。産業技術総合研究所テクニカルスタッフ、東京医科歯科大学大学院特任助教、特任研究員を経て、2012年10月から東北大学東北メディカル・メガバンク機構 助手、助教、2020年4月より現職。専門はバイオインフォマティクス、医療情報学。
+
+<img src="https://github.com/ogishimalab/ogishimalab.github.io/blob/main/image/SatoshiNagaie_headshot.jpeg?raw=true" alt="Satoshi Nagaie headshot" width="200">
+
+[researchmap](https://href.li/?https://researchmap.jp/snagaie)
