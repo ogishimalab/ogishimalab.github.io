@@ -13,4 +13,4 @@
 
 <!-- <script type='text/javascript' src='https://ogishimalab.tumblr.com/js'></script> -->
 
-### Past posts [FY2022](https://ogishimalab.github.io/Posts/FY2022)
+### Past posts [FY2022](https://ogishimalab.github.io/posts/FY2022)
