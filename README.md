@@ -11,4 +11,4 @@
 
 <a class="twitter-timeline" href="https://twitter.com/OgishimaLab?ref_src=twsrc%5Etfw">Tweets by OgishimaLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script type='text/javascript' src='https://ogishimalab.tumblr.com/js'></script>
+<!-- <script type='text/javascript' src='https://ogishimalab.tumblr.com/js'></script> -->
