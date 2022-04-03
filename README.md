@@ -17,4 +17,4 @@ Our laboratory is dedicated to the research of informatics in the field of genom
 
 <!-- <script type='text/javascript' src='https://ogishimalab.tumblr.com/js'></script> -->
 
-### Past posts [FY2022](https://ogishimalab.github.io/posts/FY2022)
+### Past posts [FY2021](https://ogishimalab.github.io/posts/FY2021)
