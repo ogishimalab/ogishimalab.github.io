@@ -55,3 +55,4 @@
   現 大阪大学 蛋白質研究所 岡田眞里子研究室
 
 <img src="https://github.com/ogishimalab/ogishimalab.github.io/blob/main/image/OgishimaLab_group_photo_2019-06-06.jpeg?raw=true" alt="Group Photo" width="600">
+
