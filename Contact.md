@@ -8,7 +8,7 @@
 東北大学東北メディカル・メガバンク機構 医療情報ICT部門 ゲノム医科学情報学分野  
 東北大学大学院医学系研究科 ゲノム医科学情報学分野 
 
-住所　　　980-8573 宮城県仙台市青葉区星陵町2-1 東北大学東北メディカル・メガバンク棟 7F  
+住所　　　980-8573 宮城県仙台市青葉区星陵町2-1 東北大学東北メディカル・メガバンク棟 7階  
 電話番号　(022) 274 6038  
 メール　　contact at igm.megabank.tohoku.ac.jp  
 
@@ -17,4 +17,5 @@
 - 仙台市営バス JR仙台駅西口バスプール発10・15番のりば「東北大学病院経由」と表示のあるバスに乗車「厚生病院前」にて下車（20分） [どこバス仙台](https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/bus.htm?tabName=searchTab&selectedLandmarkCatCd=&selectfiftySoundCharacter=&from=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&fromType=1&to=%E5%8E%9A%E7%94%9F%E7%97%85%E9%99%A2%E5%89%8D&toType=1&locale=ja&fromlat=&fromlng=&tolat=&tolng=&fromSignpoleKey=&routeLayoutCd=&bsid=1&fromBusStopCd=&toBusStopCd=&mapFlag=false&existYn=N&routeKey=&nextDiagramFlag=0&diaRevisedDate=)
 - 仙台市営地下鉄南北線 北四番丁駅下車 徒歩15分
 
+東北大学東北メディカル・メガバンク棟7階に上られましたら、7F入り口の内線電話で3610におかけいただくか、携帯電話で(022)274 6038におかけください。7F入り口までお迎えに上がります。
 
