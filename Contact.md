@@ -16,7 +16,7 @@
 
 <img src="https://www.megabank.tohoku.ac.jp/cms/wp-content/uploads/2021/05/map_sendai_jpn_small.jpg">
 
--仙台市営バス JR仙台駅西口バスプール発10・15番のりば「東北大学病院経由」と表示のあるバスに乗車「厚生病院前」にて下車（20分） [どこバス仙台](https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/bus.htm?tabName=searchTab&selectedLandmarkCatCd=&selectfiftySoundCharacter=&from=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&fromType=1&to=%E5%8E%9A%E7%94%9F%E7%97%85%E9%99%A2%E5%89%8D&toType=1&locale=ja&fromlat=&fromlng=&tolat=&tolng=&fromSignpoleKey=&routeLayoutCd=&bsid=1&fromBusStopCd=&toBusStopCd=&mapFlag=false&existYn=N&routeKey=&nextDiagramFlag=0&diaRevisedDate=)
--仙台市営地下鉄南北線 北四番丁駅下車 徒歩15分
+- 仙台市営バス JR仙台駅西口バスプール発10・15番のりば「東北大学病院経由」と表示のあるバスに乗車「厚生病院前」にて下車（20分） [どこバス仙台](https://www.dokobasu.kotsu.city.sendai.jp/wgsys/wgp/bus.htm?tabName=searchTab&selectedLandmarkCatCd=&selectfiftySoundCharacter=&from=%E4%BB%99%E5%8F%B0%E9%A7%85%E5%89%8D&fromType=1&to=%E5%8E%9A%E7%94%9F%E7%97%85%E9%99%A2%E5%89%8D&toType=1&locale=ja&fromlat=&fromlng=&tolat=&tolng=&fromSignpoleKey=&routeLayoutCd=&bsid=1&fromBusStopCd=&toBusStopCd=&mapFlag=false&existYn=N&routeKey=&nextDiagramFlag=0&diaRevisedDate=)
+- 仙台市営地下鉄南北線 北四番丁駅下車 徒歩15分
 
 
