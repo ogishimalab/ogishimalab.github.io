@@ -56,9 +56,9 @@
   現 大阪大学 蛋白質研究所 岡田眞里子研究室 助教
 ### 東京医科歯科大学
 - 大学院(博士・修士課程) 森岡 勝樹  
-　　　　現 理化学研究所 生命医科学研究センター 研究員
+  現 理化学研究所 生命医科学研究センター 研究員
 - 大学院(博士・修士課程) 菊地 正隆  
-　　　　現 東京大学 大学院新領域創成科学研究科 特任准教授　
+  現 東京大学 大学院新領域創成科学研究科 特任准教授　
     
 <img src="https://github.com/ogishimalab/ogishimalab.github.io/blob/main/image/OgishimaLab_group_photo_2019-06-06.jpeg?raw=true" alt="Group Photo" width="600">
 
