@@ -1,5 +1,4 @@
-<!-- [Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [Publications](https://ogishimalab.github.io/Publications)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact) -->
-[Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact)
+[Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [Publications](https://ogishimalab.github.io/Publications)  |  [Facilities](https://ogishimalab.github.io/Facilities)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact)
 
 # JoinUs
 
@@ -8,6 +7,8 @@
 当研究室では15万人を超える膨大なゲノム・オミックスデータや環境曝露データ、ヘルスデータ、医療データを統合し、AIによる解析を行い、データ x AIによる新しいゲノム医療の研究開発に取り組み、実現することを目指しています。
 
 当研究室に参画したい学生、研究者の方々はいつでもご連絡ください。
+
+現在、ゲノム医科学情報学分野の教員として、[助教、助手または講師の募集](https://www.megabank.tohoku.ac.jp/news/51758)をしています。
 
 ## 博士号、修士号を取得するには
 東北大学大学院医学系研究科の博士課程、修士課程に入学し、当研究室で博士号、修士号を取得することができます。
