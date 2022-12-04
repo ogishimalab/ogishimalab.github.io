@@ -1,5 +1,5 @@
 <!-- [Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [Publications](https://ogishimalab.github.io/Publications)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact) -->
-[Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact)
+[Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [Facilities](https://ogishimalab.github.io/Facilities)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact)
 
 # Facilities
 
@@ -10,6 +10,14 @@ ToMMoのスーパーコンピュータを利用できます。
 
 ## GPU HPCサーバ
 GPUのHPCサーバーを運用しています。
-| GPU               | Amount        |
-| ----------------- | ------------- |
-| NVIDIA RTX A6000  |            9  |
+
+| GPU                     | Amount        |
+| ----------------------- | ------------- |
+| NVIDIA RTX A6000        |            8  |
+| NVIDIA GeForce RTX 4090 |            1  |
+| NVIDIA Quadro RTX 8000  |            4  |
+| NVIDIA Quadro P6000     |            4  |
+
+必要に応じて、Microsoft AzureのNVIDIA A100の仮装サーバを利用可能です。
+
+各自、Apple M2 MacBook Pro/AirやMicrosoft Surface Laptop 5を利用可能です。
