@@ -5,14 +5,10 @@
 
 ## ToMMoスーパーコンピュータ
 ToMMoのスーパーコンピュータを利用できます。
-<img src=https://www.megabank.tohoku.ac.jp/cms/wp-content/uploads/2020/01/photo6-2-600x400.jpg" alt="ToMMo Super Computer">
+<img src="https://www.megabank.tohoku.ac.jp/cms/wp-content/uploads/2020/01/photo6-2-600x400.jpg" alt="ToMMo Super Computer">
 
 ## NVIDIA RTX A6000
 GPUのHPCサーバーを運用しています。
-
-NVIDIA RTX A6000 9
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| GPU               | Amount        |
+| ----------------- | ------------- |
+| NVIDIA RTX A6000  |            9  |
