@@ -13,3 +13,4 @@
 - [GA4GH](https://www.ga4gh.org/) Plenary Meeting
 
 学会・研究会に積極的に参加し、幅広い研究者と交流することを奨励しています。
+
