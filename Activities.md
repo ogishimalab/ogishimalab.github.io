@@ -1,9 +1,8 @@
-[Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [Publications](https://ogishimalab.github.io/Publications)  |  [Facilities](https://ogishimalab.github.io/Facilities)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact)
+[Research](https://ogishimalab.github.io/Research)  |  [Members](https://ogishimalab.github.io/Members)  |  [Publications](https://ogishimalab.github.io/Publications)  |  [Activities](https://ogishimalab.github.io/Activities)  |  [JoinUs](https://ogishimalab.github.io/JoinUs)  |  [Contact](https://ogishimalab.github.io/Contact)
 
 # Activities
-## 学会・研究会活動
-日本バイオインフォマティクス学会、情報計算化学生物学会、日本オミックス医学会、日本医療情報学会、日本メディカルAI学会を中心に活動し、生命医薬情報学連合大会、情報計算化学生物(CBI)学会大会、日本医療情報学会春季学術大会 および 医療情報学連合大会に参加しています。
-荻島教授は[日本バイオインフォマティクス学会](https://www.jsbi.org/)では理事、[情報計算化学生物(CBI)学会](https://cbi-society.org/)では執行部会員、評議員、[日本オミックス医学会](http://omics.jp/)では理事、[日本医療情報学会](https://www.jami.jp/)では国際委員会の委員、[日本メディカルAI学会](https://www.japan-medical-ai.org/)では評議員として活動し、永家講師、水野助教は情報計算化学生物(CBI)学会にて実行委員やセッションのオーガナイザーとして活動しています。
+## 学会・研究会
+[日本バイオインフォマティクス学会](https://www.jsbi.org/)、[情報計算化学生物(CBI)学会](https://cbi-society.org/)、[日本オミックス医学会](http://omics.jp/)、[日本医療情報学会](https://www.jami.jp/)、[日本メディカルAI学会](https://www.japan-medical-ai.org/)を中心に活動し、生命医薬情報学連合大会、情報計算化学生物(CBI)学会大会、日本医療情報学会春季学術大会 および 医療情報学連合大会に参加しています。
 
 このほかに下記の国際会議・国内会議を中心に、幅広い学会・研究会に参加しています。
 
