@@ -13,21 +13,3 @@
 - [GA4GH](https://www.ga4gh.org/) Plenary Meeting
 
 学会・研究会に積極的に参加し、幅広い研究者と交流することを奨励しています。
-
-## 解析
-### ToMMoスーパーコンピュータ
-ToMMoのスーパーコンピュータを利用して、大規模な解析を行うことができます。
-
-<img src="https://www.megabank.tohoku.ac.jp/cms/wp-content/uploads/2020/01/photo6-2-600x400.jpg" alt="ToMMo Super Computer">
-
-### GPUサーバ
-GPUのサーバを利用して、AIの解析を行うことができます。
-
-| GPU                     | Amount        |
-| ----------------------- | ------------- |
-| NVIDIA RTX A6000        |            8  |
-| NVIDIA GeForce RTX 4090 |            2  |
-| NVIDIA Quadro RTX 8000  |            4  |
-| NVIDIA Quadro P6000     |            4  |
-
-ローカルのGPUサーバでアルゴリズムを開発し、大規模な計算はToMMoスーパーコンピュータやMicrosoft AzureのNVIDIA A100の仮想サーバで実行することができます。
