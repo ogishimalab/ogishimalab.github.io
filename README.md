@@ -2,8 +2,10 @@
 
 ![ToMMo building](https://raw.githubusercontent.com/ogishimalab/ogishimalab.github.io/main/image/ToMMo_building.jpeg)
 
-# 荻島研究室 Ogishima Laboratory
-## ゲノム医科学情報学分野 Dept. of Informatics for Genomic Medicine
+# 荻島研究室 
+Ogishima Laboratory
+## ゲノム医科学情報学分野 
+Dept. of Informatics for Genomic Medicine
 ## 東北大学 東北メディカル・メガバンク機構 / 医学系研究科
 ## Tohoku University Tohoku Medical Megabank Organization / School of Medicine
 
