@@ -5,6 +5,7 @@
 ![ToMMo building](https://raw.githubusercontent.com/ogishimalab/ogishimalab.github.io/main/image/ToMMo_building.jpeg)
 
 荻島研究室
+
 東北大学東北メディカル・メガバンク機構 医療情報ICT部門 ゲノム医科学情報学分野  
 東北大学大学院医学系研究科 ゲノム医科学情報学分野 
 
