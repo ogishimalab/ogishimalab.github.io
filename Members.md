@@ -16,7 +16,7 @@
 
 [researchmap](https://href.li/?https://researchmap.jp/snagaie)
 
-## 助教 水野 聖士
+## 講師 水野 聖士
 <img src="https://github.com/ogishimalab/ogishimalab.github.io/blob/main/image/SatoshiMizuno_headshot.jpeg?raw=true" alt="Satoshi Mizuno headshot" align="right" width="150">
 東北大学東北メディカル・メガバンク機構 医療情報ICT部門 ゲノム医科学情報学分野 助教。2009年東京農業大学応用生物科学部卒業、東京医科歯科大学大学院疾患生命科学研究部修了（理学修士）。東北大学医学系研究科助手を経て、2015年8月から東北大学東北メディカル・メガバンク機構 助手、2017年10月より現職。専門はバイオインフォマティクス、トランスレーショナル・バイオインフォマティクス。
 
