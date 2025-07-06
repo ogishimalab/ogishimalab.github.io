@@ -22,12 +22,6 @@
 
 [researchmap](https://href.li/?https://researchmap.jp/7000005468)
 
-## 助教 石渡 龍輔
-<img src="https://github.com/ogishimalab/ogishimalab.github.io/blob/main/image/RyosukeIshiwata_headshot.jpeg?raw=true" alt="Ryosuke Ishiwata headshot" align="right" width="150">
-東北大学東北メディカル・メガバンク機構 医療情報ICT部門 ゲノム医科学情報学分野 助教。2004年芝浦工業大学卒業、東京医科歯科大学大学院博士（前期）課程（修士（理学））、東京医科歯科大学大学院博士課程（博士（医学））、名古屋大学大学院博士課程（後期課程）（博士（情報科学））、名古屋大学大学院情報学研究科研究員を経て、2019年4月から東北大学東北メディカル・メガバンク機構 助教（現職）。専門はバイオインフォマティクス、理論生物学、非線形物理学。
-
-[researchmap](https://href.li/?https://researchmap.jp/0000-0001-5998-7901)
-
 ## 学術研究員
 - 笠原 直子
 - 今野 幸恵
